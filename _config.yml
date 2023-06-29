@@ -5,8 +5,8 @@ theme: just-the-docs
 url: https://cwcontur.github.io/3D-Printing-Resources
 
 plugins:
-  - jemoji
-  - jekyll-toc
+  # - jemoji
+  # - jekyll-toc
   - jekyll-seo-tag
 
 permalink: pretty
